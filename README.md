@@ -41,3 +41,10 @@
 >> ##### 변하기 쉬운 클래스를 의존하지 마라, 즉 변하기 쉬운 클래스를 상속받는 대신 Interface 또는 abstract class를 이용하라
 
 ![그림](./img/DIP.jpg)
+
+
+
+###### 읽으면 좋을만한 사이트 : [깃 배쉬 push 안될때](https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind)
+
+###### [네이버 사전 클래스 설계 원칙](http://terms.naver.com/entry.nhn?docId=3533000&cid=58528&categoryId=58528)
+
